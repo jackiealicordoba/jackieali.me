@@ -1,0 +1,47 @@
+/*General Details */
+
+
+.header {
+	text-align: center;
+	margin:auto;
+	
+	height: 300px;
+	width: 100%;
+
+	background-image:url("tile1.jpg");
+
+	color:white;
+}
+
+h1 {
+	margin: 0;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 100px;
+}
+
+.header p {
+	font-size:25px;
+	margin:0;
+}
+
+.content {
+	width:70%;
+	background-color: gray;
+	padding: 20px;
+}
+
+h2 {
+	margin:0;
+}
+
+.button {
+	width:125px;
+	padding:20px;
+
+	color:white;
+	/* TEMPORARY COLOR !!! */
+	background-color:#0047ab;
+}
+
+
+
